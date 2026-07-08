@@ -7,7 +7,7 @@
 Building scalable software, secure cloud infrastructure, and modern digital solutions.
 
 [Portfolio](https://yourportfolio.com) •
-[LinkedIn](https://linkedin.com/in/yourprofile) •
+[LinkedIn](https://linkedin.com/in/ampahben) •
 [Email](mailto:you@example.com)
 
 </div>
